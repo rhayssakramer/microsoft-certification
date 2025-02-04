@@ -45,7 +45,7 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
     <tr>
       <td>Azure Network Engineer Associate (AZ-700)</td>
       <td>Certificação para engenheiros de redes especializados no Azure.</td>
-      <td><img src="rhayssakramer/microsoft-certification/img/az-700.png" alt="AZ-700" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-700.png" alt="AZ-700" width="100"></td>
     </tr>
     <tr>
       <td>Windows Server Hybrid Administrator Associate (AZ-800, AZ-801)</td>
