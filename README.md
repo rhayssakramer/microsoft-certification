@@ -10,14 +10,17 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 - 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações Microsoft.
 
 ### 📝 O que são e quais são as Certificações?
-<img align="right" width="400" style="margin-left: 40;" src="rhayssakramer/microsoft-certification/img/microsoft-certified.jpg"><p>As Certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.</p>
+<img align="right" width="400" style="margin-left: 40;" src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/microsoft-certified.jpg"><p>As Certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.</p>
 <br>
-| Nome | Descrição | Imagem |
-| :-----------------: | :-----------------------: | :----------------------: |
-| <b>GitHub Foundations Certification</b> | É uma certificação que testa seus conhecimentos sobre tópicos básicos e fundamentais do GitHub. Com o certificado você pode destacar sua compreensão dos tópicos e conceitos fundamentais de colaboração, contribuição e trabalho no GitHub. | <img width="150" src="https://github.com/user-attachments/assets/99cbcdc7-e4dc-49a8-ad3a-7b9839f68902"> |
-| <b>GitHub Actions Certification</b> | É uma certificação intermediária que testa seu conhecimento sobre automação de fluxo de trabalho com o GitHub. Você pode certificar sua proficiência em automatizar fluxos de trabalho e acelerar o desenvolvimento com GitHub Actions. | <img width="150" src="https://github.com/user-attachments/assets/e450154e-fe73-46c2-be37-16547a821dc2"> |
-| <b>GitHub Advanced Security Certification</b> | É uma certificação que testa que você tem conhecimento sobre a implementação de práticas recomendadas de segurança no GitHub. Você pode destacar seu conhecimento de segurança de código. | <img width="150" src="https://github.com/user-attachments/assets/e438c467-acbe-4ddd-8020-08af74b85ea3"> |
-| <b>GitHub Administration Certification</b> | É uma certificação que testa sua capacidade de manter repositórios complexos e colaborar com outras pessoas. Você pode certificar sua capacidade de otimizar e gerenciar um ambiente GitHub saudável. | <img width="150" src="https://github.com/user-attachments/assets/6234bc2e-3542-4372-82e8-49cf8ed9e32e"> |
+<table>
+  <th>Área</th>
+  <th>Nome</th>
+  <th>Descrição</th>
+  <th>Imagem</th>
+  <tr>Infrastructure</tr>
+  <tr>Data and AI</tr>
+  <tr>Digital app and innovation</tr>
+</table>
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para se preparar para as certificações:
