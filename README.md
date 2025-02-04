@@ -17,138 +17,98 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
   <thead>
     <tr>
       <th>Área</th>
-      <th>Fundamentals</th>
-      <th>Role-based</th>
-      <th>Specialty</th>
+      <th>Nível</th>
+      <th>Certificação</th>
+      <th>Descrição</th>
+      <th>Imagem</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4"><strong>Infrastructure</strong></td>
-      <td rowspan="4">Azure Fundamentals (AZ-900)</td>
+      <td rowspan="7"><strong><b>Infrastructure</b></strong></td>
+      <td>Fundamentals</td>
+      <td>Azure Fundamentals (AZ-900)</td>
+      <td>Certificação básica para compreender os fundamentos da nuvem Microsoft Azure.</td>
+      <td><img src="link-da-imagem" alt="AZ-900" width="100"></td>
+    </tr>
+    <tr>
+      <td>Role-based</td>
       <td>Azure Administrator Associate (AZ-104)</td>
-      <td rowspan="2">Azure for SAP Workloads Specialty (AZ-120)</td>
+      <td>Certificação para administradores de Azure, focada em gerenciamento e monitoramento de serviços.</td>
+      <td><img src="link-da-imagem" alt="AZ-104" width="100"></td>
     </tr>
     <tr>
+      <td>Role-based</td>
       <td>Azure Solutions Architect Expert (AZ-305)</td>
+      <td>Certificação avançada para arquitetos de soluções em Azure.</td>
+      <td><img src="link-da-imagem" alt="AZ-305" width="100"></td>
     </tr>
     <tr>
+      <td>Role-based</td>
       <td>Azure Network Engineer Associate (AZ-700)</td>
-      <td rowspan="2">Azure Virtual Desktop Specialty (AZ-140)</td>
+      <td>Certificação para engenheiros de redes especializados no Azure.</td>
+      <td><img src="link-da-imagem" alt="AZ-700" width="100"></td>
     </tr>
     <tr>
+      <td>Role-based</td>
       <td>Windows Server Hybrid Administrator Associate (AZ-800, AZ-801)</td>
+      <td>Certificação para administradores de servidores híbridos do Windows Server.</td>
+      <td><img src="link-da-imagem" alt="AZ-800/801" width="100"></td>
     </tr>
     <tr>
-      <td rowspan="6"><strong>Data and AI</strong></td>
-      <td rowspan="6">
-        Azure AI Fundamentals (AI-900) <br>
-        Azure Data Fundamentals (DP-900)
-      </td>
+      <td>Specialty</td>
+      <td>Azure for SAP Workloads Specialty (AZ-120)</td>
+      <td>Certificação para gerenciamento de cargas de trabalho SAP no Azure.</td>
+      <td><img src="link-da-imagem" alt="AZ-120" width="100"></td>
+    </tr>
+    <tr>
+      <td>Specialty</td>
+      <td>Azure Virtual Desktop Specialty (AZ-140)</td>
+      <td>Certificação para especialistas em configurações de Azure Virtual Desktop.</td>
+      <td><img src="link-da-imagem" alt="AZ-140" width="100"></td>
+    </tr>
+    <tr>
+      <td rowspan="7"><strong><b>Data and AI</b></strong></td>
+      <td>Fundamentals</td>
+      <td>Azure AI Fundamentals (AI-900)</td>
+      <td>Certificação básica sobre inteligência artificial no Azure.</td>
+      <td><img src="link-da-imagem" alt="AI-900" width="100"></td>
+    </tr>
+    <tr>
+      <td>Fundamentals</td>
+      <td>Azure Data Fundamentals (DP-900)</td>
+      <td>Certificação básica sobre serviços de dados no Azure.</td>
+      <td><img src="link-da-imagem" alt="DP-900" width="100"></td>
+    </tr>
+    <tr>
+      <td>Role-based</td>
       <td>Azure AI Engineer Associate (AI-102)</td>
-      <td rowspan="6">Azure Cosmos DB Developer Specialty (DP-420)</td>
+      <td>Certificação para engenheiros de inteligência artificial especializados no Azure.</td>
+      <td><img src="link-da-imagem" alt="AI-102" width="100"></td>
     </tr>
     <tr>
+      <td>Role-based</td>
       <td>Power BI Data Analyst Associate (PL-300)</td>
+      <td>Certificação para analistas de dados que utilizam Power BI.</td>
+      <td><img src="link-da-imagem" alt="PL-300" width="100"></td>
     </tr>
     <tr>
+      <td>Role-based</td>
       <td>Azure Data Scientist Associate (DP-100)</td>
+      <td>Certificação para cientistas de dados especializados no Azure.</td>
+      <td><img src="link-da-imagem" alt="DP-100" width="100"></td>
     </tr>
     <tr>
+      <td>Role-based</td>
       <td>Azure Data Engineer Associate (DP-203)</td>
+      <td>Certificação para engenheiros de dados especializados no Azure.</td>
+      <td><img src="link-da-imagem" alt="DP-203" width="100"></td>
     </tr>
     <tr>
+      <td>Role-based</td>
       <td>Azure Database Administrator Associate (DP-300)</td>
-    </tr>
-    <tr>
-      <td>Fabric Analytics Associate (DP-600)</td>
-    </tr>
-    <tr>
-      <td rowspan="2"><strong>Digital App and Innovation</strong></td>
-      <td rowspan="2">-</td>
-      <td>Azure Developer Associate (AZ-204)</td>
-      <td rowspan="2">-</td>
-    </tr>
-    <tr>
-      <td>DevOps Engineer Expert (AZ-400)</td>
-    </tr>
-    <tr>
-      <td rowspan="4"><strong>Modern Work</strong></td>
-      <td rowspan="4">Microsoft 365 Fundamentals (MS-900)</td>
-      <td>Endpoint Administrator Associate (MD-102)</td>
-      <td rowspan="4">-</td>
-    </tr>
-    <tr>
-      <td>Administrator Expert (MS-102)</td>
-    </tr>
-    <tr>
-      <td>Teams Administrator Associate (MS-700)</td>
-    </tr>
-    <tr>
-      <td>Collaboration Communications Systems Engineer Associate (MS-721)</td>
-    </tr>
-    <tr>
-      <td rowspan="12"><strong>Business Applications</strong></td>
-      <td rowspan="12">
-        Dynamics 365 Fundamentals (CRM) (MB-910) <br>
-        Dynamics 365 Fundamentals (ERP) (MB-920) <br>
-        Power Platform Fundamentals (PL-900)
-      </td>
-      <td>Dynamics 365 Sales Functional Consultant Associate (MB-210)</td>
-      <td rowspan="3">Dynamics 365 Business Central Functional Consultant Associate (MB-800)</td>
-    </tr>
-    <tr>
-      <td>Dynamics 365 Field Service Functional Consultant Associate (MB-240)</td>
-    </tr>
-    <tr>
-      <td>Dynamics 365 Customer Service Functional Consultant Associate (MB-230)</td>
-    </tr>
-    <tr>
-      <td>Dynamics 365 Finance Functional Consultant Associate (MB-310)</td>
-      <td rowspan="2">Dynamics 365 Customer Insights (Data) Specialty (MB-260)</td>
-    </tr>
-    <tr>
-      <td>Dynamics 365 Supply Chain Management Functional Consultant Associate (MB-330)</td>
-    </tr>
-    <tr>
-      <td>Dynamics 365 Finance and Operations Apps Solution Architect Expert (MB-700)</td>
-      <td rowspan="7">-</td>
-    </tr>
-    <tr>
-      <td>Dynamics 365 Customer Insights (Journey) Functional Consultant Associate (MB-220)</td>
-    </tr>
-    <tr>
-      <td>Power Platform App Maker Associate (PL-100)</td>
-    </tr>
-    <tr>
-      <td>Power Platform Functional Consultant Associate (PL-200)</td>
-    </tr>
-    <tr>
-      <td>Power Platform Developer Associate (PL-400)</td>
-    </tr>
-    <tr>
-      <td>Power Platform Solution Architect Expert (PL-600)</td>
-    </tr>
-    <tr>
-      <td>Dynamics 365 Business Central Functional Consultant Associate (MB-800)</td>
-    </tr>
-    <tr>
-      <td rowspan="5"><strong>Security</strong></td>
-      <td rowspan="5">Security, Compliance, and Identity Fundamentals (SC-900)</td>
-      <td>Azure Security Engineer Associate (AZ-500)</td>
-      <td rowspan="5">-</td>
-    </tr>
-    <tr>
-      <td>Cybersecurity Architect Expert (SC-100)</td>
-    </tr>
-    <tr>
-      <td>Security Operations Analyst Associate (SC-200)</td>
-    </tr>
-    <tr>
-      <td>Identity and Access Administrator Associate (SC-300)</td>
-    </tr>
-    <tr>
-      <td>Information Protection and Compliance Administrator Associate (SC-400)</td>
+      <td>Certificação para administradores de bancos de dados no Azure.</td>
+      <td><img src="link-da-imagem" alt="DP-300" width="100"></td>
     </tr>
   </tbody>
 </table>
