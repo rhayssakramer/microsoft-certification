@@ -68,38 +68,38 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
       <td rowspan="2">Fundamentals</td>
       <td>Azure AI Fundamentals (AI-900)</td>
       <td>Certificação básica sobre inteligência artificial no Azure.</td>
-      <td><img src="link-da-imagem" alt="AI-900" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/ai-900.png" alt="AI-900" width="100"></td>
     </tr>
     <tr>
       <td>Azure Data Fundamentals (DP-900)</td>
       <td>Certificação básica sobre serviços de dados no Azure.</td>
-      <td><img src="link-da-imagem" alt="DP-900" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/dp-900.png" alt="DP-900" width="100"></td>
     </tr>
     <tr>
       <td rowspan="5">Role-based</td>
       <td>Azure AI Engineer Associate (AI-102)</td>
       <td>Certificação para engenheiros de inteligência artificial especializados no Azure.</td>
-      <td><img src="link-da-imagem" alt="AI-102" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/ai-102.png" alt="AI-102" width="100"></td>
     </tr>
     <tr>
       <td>Power BI Data Analyst Associate (PL-300)</td>
       <td>Certificação para analistas de dados que utilizam Power BI.</td>
-      <td><img src="link-da-imagem" alt="PL-300" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/pl-300.png" alt="PL-300" width="100"></td>
     </tr>
     <tr>
       <td>Azure Data Scientist Associate (DP-100)</td>
       <td>Certificação para cientistas de dados especializados no Azure.</td>
-      <td><img src="link-da-imagem" alt="DP-100" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/dp-100.png" alt="DP-100" width="100"></td>
     </tr>
     <tr>
       <td>Azure Data Engineer Associate (DP-203)</td>
       <td>Certificação para engenheiros de dados especializados no Azure.</td>
-      <td><img src="link-da-imagem" alt="DP-203" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/dp-203.png" alt="DP-203" width="100"></td>
     </tr>
     <tr>
       <td>Azure Database Administrator Associate (DP-300)</td>
       <td>Certificação para administradores de bancos de dados no Azure.</td>
-      <td><img src="link-da-imagem" alt="DP-300" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/dp-300.png" alt="DP-300" width="100"></td>
     </tr>
   </tbody>
 </table>
