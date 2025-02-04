@@ -29,39 +29,39 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
       <td>Fundamentals</td>
       <td>Azure Fundamentals (AZ-900)</td>
       <td>Certificação básica para compreender os fundamentos da nuvem Microsoft Azure.</td>
-      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-900.png" alt="AZ-900" width="100"></td>
+      <td><img src="rhayssakramer/microsoft-certification/img/az-900.png" alt="AZ-900" width="100"></td>
     </tr>
     <tr>
       <td rowspan="4">Role-based</td>
       <td>Azure Administrator Associate (AZ-104)</td>
       <td>Certificação para administradores de Azure, focada em gerenciamento e monitoramento de serviços.</td>
-      <td><img src="link-da-imagem" alt="AZ-104" width="100"></td>
+      <td><img src="rhayssakramer/microsoft-certification/img/az-104.png" alt="AZ-104" width="100"></td>
     </tr>
     <tr>
       <td>Azure Solutions Architect Expert (AZ-305)</td>
       <td>Certificação avançada para arquitetos de soluções em Azure.</td>
-      <td><img src="link-da-imagem" alt="AZ-305" width="100"></td>
+      <td><img src="rhayssakramer/microsoft-certification/img/az-305.png" alt="AZ-305" width="100"></td>
     </tr>
     <tr>
       <td>Azure Network Engineer Associate (AZ-700)</td>
       <td>Certificação para engenheiros de redes especializados no Azure.</td>
-      <td><img src="link-da-imagem" alt="AZ-700" width="100"></td>
+      <td><img src="rhayssakramer/microsoft-certification/img/az-700.png" alt="AZ-700" width="100"></td>
     </tr>
     <tr>
       <td>Windows Server Hybrid Administrator Associate (AZ-800, AZ-801)</td>
       <td>Certificação para administradores de servidores híbridos do Windows Server.</td>
-      <td><img src="link-da-imagem" alt="AZ-800/801" width="100"></td>
+      <td><img src="rhayssakramer/microsoft-certification/img/az-800.png" alt="AZ-800/801" width="100"></td>
     </tr>
     <tr>
       <td rowspan="2">Specialty</td>
       <td>Azure for SAP Workloads Specialty (AZ-120)</td>
       <td>Certificação para gerenciamento de cargas de trabalho SAP no Azure.</td>
-      <td><img src="link-da-imagem" alt="AZ-120" width="100"></td>
+      <td><img src="rhayssakramer/microsoft-certification/img/az-120.png" alt="AZ-120" width="100"></td>
     </tr>
     <tr>
       <td>Azure Virtual Desktop Specialty (AZ-140)</td>
       <td>Certificação para especialistas em configurações de Azure Virtual Desktop.</td>
-      <td><img src="link-da-imagem" alt="AZ-140" width="100"></td>
+      <td><img src="rhayssakramer/microsoft-certification/img/az-140.png" alt="AZ-140" width="100"></td>
     </tr>
     <tr>
       <td rowspan="7"><strong><b>Data and AI</b></strong></td>
