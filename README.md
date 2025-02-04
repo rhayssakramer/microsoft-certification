@@ -29,18 +29,18 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
       <td>Fundamentals</td>
       <td>Azure Fundamentals (AZ-900)</td>
       <td>Certificação básica para compreender os fundamentos da nuvem Microsoft Azure.</td>
-      <td><img src="rhayssakramer/microsoft-certification/img/az-900.png" alt="AZ-900" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-900.png" alt="AZ-900" width="100"></td>
     </tr>
     <tr>
       <td rowspan="4">Role-based</td>
       <td>Azure Administrator Associate (AZ-104)</td>
       <td>Certificação para administradores de Azure, focada em gerenciamento e monitoramento de serviços.</td>
-      <td><img src="rhayssakramer/microsoft-certification/img/az-104.png" alt="AZ-104" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-104.png" alt="AZ-104" width="100"></td>
     </tr>
     <tr>
       <td>Azure Solutions Architect Expert (AZ-305)</td>
       <td>Certificação avançada para arquitetos de soluções em Azure.</td>
-      <td><img src="rhayssakramer/microsoft-certification/img/az-305.png" alt="AZ-305" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-305.png" alt="AZ-305" width="100"></td>
     </tr>
     <tr>
       <td>Azure Network Engineer Associate (AZ-700)</td>
@@ -50,58 +50,53 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
     <tr>
       <td>Windows Server Hybrid Administrator Associate (AZ-800, AZ-801)</td>
       <td>Certificação para administradores de servidores híbridos do Windows Server.</td>
-      <td><img src="rhayssakramer/microsoft-certification/img/az-800.png" alt="AZ-800/801" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-800.png" alt="AZ-800/801" width="100"></td>
     </tr>
     <tr>
       <td rowspan="2">Specialty</td>
       <td>Azure for SAP Workloads Specialty (AZ-120)</td>
       <td>Certificação para gerenciamento de cargas de trabalho SAP no Azure.</td>
-      <td><img src="rhayssakramer/microsoft-certification/img/az-120.png" alt="AZ-120" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-120.png" alt="AZ-120" width="100"></td>
     </tr>
     <tr>
       <td>Azure Virtual Desktop Specialty (AZ-140)</td>
       <td>Certificação para especialistas em configurações de Azure Virtual Desktop.</td>
-      <td><img src="rhayssakramer/microsoft-certification/img/az-140.png" alt="AZ-140" width="100"></td>
+      <td><img src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/az-140.png" alt="AZ-140" width="100"></td>
     </tr>
     <tr>
       <td rowspan="7"><strong><b>Data and AI</b></strong></td>
-      <td>Fundamentals</td>
+      <td rowspan="2">Fundamentals</td>
       <td>Azure AI Fundamentals (AI-900)</td>
       <td>Certificação básica sobre inteligência artificial no Azure.</td>
       <td><img src="link-da-imagem" alt="AI-900" width="100"></td>
     </tr>
     <tr>
-      <td>Fundamentals</td>
       <td>Azure Data Fundamentals (DP-900)</td>
       <td>Certificação básica sobre serviços de dados no Azure.</td>
       <td><img src="link-da-imagem" alt="DP-900" width="100"></td>
     </tr>
     <tr>
-      <td>Role-based</td>
+      <td rowspan="5">Role-based</td>
       <td>Azure AI Engineer Associate (AI-102)</td>
       <td>Certificação para engenheiros de inteligência artificial especializados no Azure.</td>
       <td><img src="link-da-imagem" alt="AI-102" width="100"></td>
     </tr>
     <tr>
-      <td>Role-based</td>
       <td>Power BI Data Analyst Associate (PL-300)</td>
       <td>Certificação para analistas de dados que utilizam Power BI.</td>
       <td><img src="link-da-imagem" alt="PL-300" width="100"></td>
     </tr>
     <tr>
-      <td>Role-based</td>
       <td>Azure Data Scientist Associate (DP-100)</td>
       <td>Certificação para cientistas de dados especializados no Azure.</td>
       <td><img src="link-da-imagem" alt="DP-100" width="100"></td>
     </tr>
     <tr>
-      <td>Role-based</td>
       <td>Azure Data Engineer Associate (DP-203)</td>
       <td>Certificação para engenheiros de dados especializados no Azure.</td>
       <td><img src="link-da-imagem" alt="DP-203" width="100"></td>
     </tr>
     <tr>
-      <td>Role-based</td>
       <td>Azure Database Administrator Associate (DP-300)</td>
       <td>Certificação para administradores de bancos de dados no Azure.</td>
       <td><img src="link-da-imagem" alt="DP-300" width="100"></td>
