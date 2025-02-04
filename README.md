@@ -6,11 +6,11 @@ Este repositório correspode a um guia para contribuir com os estudos das Certif
 Este repositório está organizado para armazenar e gerenciar todos os materiais e outros recursos para as Certificações da Microsoft.
 
 - 📝 [Informações sobre Certificações:](https://github.com/rhayssakramer/github-certification?tab=readme-ov-file#-o-que-s%C3%A3o-e-quais-s%C3%A3o-as-certifica%C3%A7%C3%B5es) conceitos e importância das certificações.
-- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo das Certificação GitHub.
-- 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial (Material de grande importância para as Certificações GitHub.
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo das Certificações Microsoft.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações Microsoft.
 
 ### 📝 O que são e quais são as Certificações?
-<img align="right" width="400" style="margin-left: 40;" src="https://github.com/rhayssakramer/github-certification/blob/main/img/certificacoes.png"><p>As Certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.</p>
+<img align="right" width="400" style="margin-left: 40;" src="rhayssakramer/microsoft-certification/img/microsoft-certified.jpg"><p>As Certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.</p>
 <br>
 | Nome | Descrição | Imagem |
 | :-----------------: | :-----------------------: | :----------------------: |
@@ -41,12 +41,12 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para as cer
 - [Artigo sobre Certificações do GitHub do Datacamp](https://www.datacamp.com/pt/blog/GitHub-certifications)
 
 ### ▶️ Conclusão
-Este guia serve para contribuir com os estudos das Certificações do GitHub. Explore os recursos compartilhados necessários para atender às suas necessidades.
+Este guia serve para contribuir com os estudos das Certificações da Microsoft. Explore os recursos compartilhados necessários para atender às suas necessidades.
 
 ### 🔗 Créditos
-Este repositório foi desenvolvido como guia de estudos das Certificações do [GitHub](https://github.com/).
+Este repositório foi desenvolvido como guia de estudos das Certificações do [Microsoft](https://www.microsoft.com/pt-br).
 
-*Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com o GitHub ou suas empresas associadas.*
+*Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a Microsoft ou suas empresas associadas.*
 
 ### 👩🏼‍💻 Autoria:
 <table style="border=0">
