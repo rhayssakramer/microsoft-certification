@@ -112,7 +112,7 @@ As certificações Microsoft se alinham às funções de trabalho nas quais as e
 Aqui você encontrará uma lista de recursos úteis para se preparar para as certificações:
 | Nome | Materiais |
 | :-----------------: | :-----------------------: | 
-| AZ-900 | [AZ-900: Microsoft Azure Fundamentals - Microsoft Learn](https://learn.microsoft.com/pt-br/certifications/exams/az-900/?wt.mc_id=1reg_18960_webpage_reactor)<br> [Guia de estudo do Exame AZ-900 - Microsoft Learn](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900) |
+| AZ-900 | [AZ-900: Microsoft Azure Fundamentals - Microsoft Learn](https://learn.microsoft.com/pt-br/certifications/exams/az-900/?wt.mc_id=1reg_18960_webpage_reactor)<br> [Guia de estudo do Exame AZ-900 - Microsoft Learn](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900)<br>[Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9)<br>[Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification)|
 | AZ-104 |  |
 | AZ-305 |  |
 | AZ-700 |  |
