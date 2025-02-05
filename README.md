@@ -10,8 +10,10 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 - 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações Microsoft.
 
 ### 📝 O que são e quais são as Certificações?
-<img align="right" width="400" style="margin-left: 40;" src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/microsoft-certified.jpg"><p>As certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.</p>
-<br>
+As certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.
+<img align="center" width="500" style="margin-left: 40;" src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/microsoft-certified.jpg">
+
+<br><br>
 <table border="1">
   <thead>
     <tr>
