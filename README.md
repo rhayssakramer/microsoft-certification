@@ -11,9 +11,11 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 
 ### 📝 O que são e quais são as Certificações?
 As certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.
-<img align="center" width="500" style="margin-left: 40;" src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/microsoft-certified.jpg">
-
-<br><br>
+<br>
+<div align="center">
+  <img width="600" src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/microsoft-certified.jpg">
+</div>
+<br>
 <table border="1">
   <thead>
     <tr>
