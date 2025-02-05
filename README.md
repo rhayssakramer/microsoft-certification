@@ -10,9 +10,8 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 - 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações Microsoft.
 
 ### 📝 O que são e quais são as Certificações?
-<img align="right" width="400" style="margin-left: 40;" src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/microsoft-certified.jpg"><p>As Certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.</p>
+<img align="right" width="400" style="margin-left: 40;" src="https://github.com/rhayssakramer/microsoft-certification/blob/main/img/microsoft-certified.jpg"><p>As certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.</p>
 <br>
-
 <table border="1">
   <thead>
     <tr>
@@ -109,22 +108,29 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 Aqui você encontrará uma lista de recursos úteis para se preparar para as certificações:
 | Nome | Materiais |
 | :-----------------: | :-----------------------: | 
-| GitHub Foundations Certification | [Coleção GitHub Foundations - Microsoft Learn](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)<br>[GitHub Foundations - LinkedIn Learning](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification)|
-| GitHub Actions Certification | [Coleção GitHub Actions - Microsoft Learn](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5) |
-| GitHub Advanced Security Certification | [Coleção GitHub Advanced Security - Microsoft Learn](https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03)<br>[GitHub Advanced Security - LinkedIn Learning](https://www.linkedin.com/learning/paths/prepare-for-the-github-administration-certification)|
-| GitHub Administration Certification | [Coleção GitHub Administration - Microsoft Learn](https://learn.microsoft.com/en-us/collections/rqymc6yw8q5rey) |
+| AZ-900 | [AZ-900: Microsoft Azure Fundamentals - Microsoft Learn](https://learn.microsoft.com/pt-br/certifications/exams/az-900/?wt.mc_id=1reg_18960_webpage_reactor)<br> [Guia de estudo do Exame AZ-900 - Microsoft Learn](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900) |
+| AZ-104 |  |
+| AZ-305 |  |
+| AZ-700 |  |
+| AZ-800/801 |  |
+| AZ-120 |  |
+| AZ-140 |  |
+| AI-900 | [AI-900: Microsoft Azure AI Fundamentals - Microsoft Learn](https://learn.microsoft.com/pt-br/certifications/exams/ai-900/?wt.mc_id=1reg_18960_webpage_reactor)<br>[Guia de estudo do Exame AI-900 - Microsoft Learn](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-900) |
+| DP-900 | [DP-900: Microsoft Azure Data Fundamentals - Microsoft Learn](https://learn.microsoft.com/pt-br/certifications/exams/dp-900/?wt.mc_id=1reg_18960_webpage_reactor)<br> [Guia de estudo do Exame DP-900 - Microsoft Learn](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/dp-900) |
+| AI-102 |  |
+| PL-300 |  |
+| DP-100 |  |
+| DP-203 |  |
+| DP-300 |  |
+| DP-600 |  |
+| DP-700 |  |
 
 ### 🔗 Links Úteis
-- [Página oficial de inscrição para o exame](https://examregistration.github.com/overview)
-- [Documentação do GitHub](https://docs.github.com/)
-- [Documentação GitHub Certification](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications)
-- [Sobre GitHub Certification](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications)
-- [Site GitHub Education](https://education.github.com/experiences/foundations_certificate)
-- [Microsoft Learn for GitHub](https://learn.microsoft.com/en-us/training/github/)
-- [Formação Github Certification](https://web.dio.me/track/formacao-github-certification)
-- [Manual do Candidato](https://examregistration.github.com/handbook)
-- [Perguntas Frequentes](https://examregistration.github.com/faq)
-- [Artigo sobre Certificações do GitHub do Datacamp](https://www.datacamp.com/pt/blog/GitHub-certifications)
+- [Página oficial da Microsoft](https://www.microsoft.com/pt-br)
+- [Página ofical do Microsoft Learn](https://learn.microsoft.com/pt-br/)
+- [Microsoft Credenciais da Microsoft](https://learn.microsoft.com/pt-br/credentials/)
+- [Artigo para inscrição da Microsoft Education](https://techcommunity.microsoft.com/blog/desenvolvedoresbr/certifica%C3%A7%C3%B5es-microsoft-gratuitas-para-estudantes/3786168)
+- [Perguntas Frequentes](https://learn.microsoft.com/pt-br/credentials/support/help)
 
 ### ▶️ Conclusão
 Este guia serve para contribuir com os estudos das Certificações da Microsoft. Explore os recursos compartilhados necessários para atender às suas necessidades.
