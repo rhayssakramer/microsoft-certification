@@ -5,9 +5,9 @@ Este repositório correspode a um guia para contribuir com os estudos das Certif
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais e outros recursos para as Certificações da Microsoft.
 
-- 📝 [Informações sobre Certificações:](https://github.com/rhayssakramer/github-certification?tab=readme-ov-file#-o-que-s%C3%A3o-e-quais-s%C3%A3o-as-certifica%C3%A7%C3%B5es) conceitos e importância das certificações.
-- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo das Certificações Microsoft.
-- 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações Microsoft.
+- 📝 [Informações sobre Certificações:](https://github.com/rhayssakramer/microsoft-certification?tab=readme-ov-file#-o-que-s%C3%A3o-e-quais-s%C3%A3o-as-certifica%C3%A7%C3%B5es) conceitos e importância das certificações.
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/microsoft-certification?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo das Certificações Microsoft.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/microsoft-certification?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações Microsoft.
 
 ### 📝 O que são e quais são as Certificações?
 As certificações Microsoft se alinham às funções de trabalho nas quais as empresas mais confiam, permitindo que elas identifiquem talentos como o seu e permitindo que permaneçam competitivas à medida que a tecnologia continua a mudar rapidamente.
@@ -139,12 +139,12 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para as cer
 ### ▶️ Conclusão
 Este guia serve para contribuir com os estudos das Certificações da Microsoft. Explore os recursos compartilhados necessários para atender às suas necessidades.
 
-### 🔗 Créditos
+### 🖋️ Créditos
 Este repositório foi desenvolvido como guia de estudos das Certificações do [Microsoft](https://www.microsoft.com/pt-br).
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a Microsoft ou suas empresas associadas.*
 
-### 👩🏼‍💻 Autoria:
+### 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
@@ -157,4 +157,4 @@ Este repositório foi desenvolvido como guia de estudos das Certificações do [
   </tr>
 </table>
 
-### <div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/user-attachments/assets/27f933bf-6bb5-418d-aa0f-842b65185a82" width="130"></a></div>
