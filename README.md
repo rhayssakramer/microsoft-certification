@@ -138,15 +138,15 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para as cer
 - [Artigo para inscrição da Microsoft Education](https://techcommunity.microsoft.com/blog/desenvolvedoresbr/certifica%C3%A7%C3%B5es-microsoft-gratuitas-para-estudantes/3786168)
 - [Perguntas Frequentes](https://learn.microsoft.com/pt-br/credentials/support/help)
 
-### ▶️ Conclusão
+## ▶️ Conclusão
 Este guia serve para contribuir com os estudos das Certificações da Microsoft. Explore os recursos compartilhados necessários para atender às suas necessidades.
 
-### 🖋️ Créditos
+## 🔗 Créditos
 Este repositório foi desenvolvido como guia de estudos das Certificações do [Microsoft](https://www.microsoft.com/pt-br).
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a Microsoft ou suas empresas associadas.*
 
-### 👩🏼‍💻 Autora:
+## 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
