@@ -2,7 +2,7 @@
 
 <h1 align="center">📎 Microsoft Certification</h1>
 
-Este repositório correspode a um guia para contribuir com os estudos das Certificações da [Microsoft](https://www.microsoft.com/pt-br). Aqui você irá encontrará uma lista de materiais que podem ser úteis para estudar.
+Este repositório correspode a um guia para contribuir com os estudos das [Certificações do Microsoft](https://www.microsoft.com/pt-br). Aqui você irá encontrará uma lista de materiais que podem ser úteis para estudar.
 
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais e outros recursos para as Certificações da Microsoft.
@@ -139,10 +139,10 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para as cer
 - [Perguntas Frequentes](https://learn.microsoft.com/pt-br/credentials/support/help)
 
 ## ▶️ Conclusão
-Este guia serve para contribuir com os estudos das Certificações da Microsoft. Explore os recursos compartilhados necessários para atender às suas necessidades.
+Este guia serve para contribuir com os estudos das [Certificações do Microsoft](https://www.microsoft.com/pt-br). Explore os recursos compartilhados necessários para atender às suas necessidades.
 
 ## 🔗 Créditos
-Este repositório foi desenvolvido como guia de estudos das Certificações do [Microsoft](https://www.microsoft.com/pt-br).
+Este repositório foi desenvolvido como guia de estudos das [Certificações do Microsoft](https://www.microsoft.com/pt-br).
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a Microsoft ou suas empresas associadas.*
 
